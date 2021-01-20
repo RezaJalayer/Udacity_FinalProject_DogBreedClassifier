@@ -2,24 +2,14 @@
 
 Project files:
 
-haarcascade_frontalface_alt.xml                 used for face detector logic
+haarcascade_frontalface_alt.xml: used for face detector logic
 
-Proposal.pdf                                    Project Proposal
+Proposal.pdf                                    
 
-FinalReport.pdf                                 Project Complete Report  
+FinalReport.pdf                                  
 
-dog_app.ipynb                                   jupyter notebook contains all project code and outputs
+dog_app.ipynb: jupyter notebook contains all project code and outputs
 
 Python Libraries and Packages used in this project:
 
-numpyumpy
-pandas
-cv2
-matplotlib
-torch
-torchvision
-PIL
-glob
-os
-re
-sklearn
+numpy, pandas, cv2, matplotlib, torch, torchvision, PIL, glob, os, re, sklearn
